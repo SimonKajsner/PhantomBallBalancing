@@ -1,0 +1,8 @@
+
+
+Ce vmes izklopis kamero se verjetno zgodi napaka...
+
+
+
+
+Dodaj moznost za vklop posameznih debug oken med delovanjem
